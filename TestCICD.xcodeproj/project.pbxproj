@@ -13,6 +13,7 @@
 		28B220CC21A419C500F55446 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28B220CA21A419C500F55446 /* Main.storyboard */; };
 		28B220CE21A419C800F55446 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28B220CD21A419C800F55446 /* Assets.xcassets */; };
 		28B220D121A419C800F55446 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28B220CF21A419C800F55446 /* LaunchScreen.storyboard */; };
+		28B220D921A4360A00F55446 /* exportOptions.plist in Resources */ = {isa = PBXBuildFile; fileRef = 28B220D821A4360A00F55446 /* exportOptions.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		28B220CD21A419C800F55446 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		28B220D021A419C800F55446 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		28B220D221A419C800F55446 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		28B220D821A4360A00F55446 /* exportOptions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = exportOptions.plist; sourceTree = "<group>"; };
 		6378A3602B275E3C47298255 /* Pods-TestCICD.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestCICD.release.xcconfig"; path = "Pods/Target Support Files/Pods-TestCICD/Pods-TestCICD.release.xcconfig"; sourceTree = "<group>"; };
 		92CCC785E30CDDB5ABD3A11D /* Pods_TestCICD.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TestCICD.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F1273AFF9E50A0D489A56D8 /* Pods-TestCICD.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestCICD.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TestCICD/Pods-TestCICD.debug.xcconfig"; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				28B220CD21A419C800F55446 /* Assets.xcassets */,
 				28B220CF21A419C800F55446 /* LaunchScreen.storyboard */,
 				28B220D221A419C800F55446 /* Info.plist */,
+				28B220D821A4360A00F55446 /* exportOptions.plist */,
 			);
 			path = TestCICD;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 				28B220D121A419C800F55446 /* LaunchScreen.storyboard in Resources */,
 				28B220CE21A419C800F55446 /* Assets.xcassets in Resources */,
 				28B220CC21A419C500F55446 /* Main.storyboard in Resources */,
+				28B220D921A4360A00F55446 /* exportOptions.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
