@@ -13,7 +13,6 @@
 		28B220CC21A419C500F55446 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28B220CA21A419C500F55446 /* Main.storyboard */; };
 		28B220CE21A419C800F55446 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28B220CD21A419C800F55446 /* Assets.xcassets */; };
 		28B220D121A419C800F55446 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28B220CF21A419C800F55446 /* LaunchScreen.storyboard */; };
-		28B220D921A4360A00F55446 /* exportOptions.plist in Resources */ = {isa = PBXBuildFile; fileRef = 28B220D821A4360A00F55446 /* exportOptions.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -153,7 +152,6 @@
 				28B220D121A419C800F55446 /* LaunchScreen.storyboard in Resources */,
 				28B220CE21A419C800F55446 /* Assets.xcassets in Resources */,
 				28B220CC21A419C500F55446 /* Main.storyboard in Resources */,
-				28B220D921A4360A00F55446 /* exportOptions.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
