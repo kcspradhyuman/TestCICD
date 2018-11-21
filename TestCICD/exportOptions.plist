@@ -17,5 +17,7 @@
 	<true/>
 	<key>compileBitcode</key>
 	<true/>
+	<key>method</key>
+	<string>app-store</string>
 </dict>
 </plist>

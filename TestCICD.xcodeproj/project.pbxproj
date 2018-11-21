@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		06899E286EEDB9165C9FA735 /* Pods_TestCICD.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 92CCC785E30CDDB5ABD3A11D /* Pods_TestCICD.framework */; };
+		287AD93021A5880A005ADEE3 /* exportOptions.plist in Resources */ = {isa = PBXBuildFile; fileRef = 287AD92F21A5880A005ADEE3 /* exportOptions.plist */; };
 		28B220C721A419C500F55446 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28B220C621A419C500F55446 /* AppDelegate.swift */; };
 		28B220C921A419C500F55446 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28B220C821A419C500F55446 /* ViewController.swift */; };
 		28B220CC21A419C500F55446 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28B220CA21A419C500F55446 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		287AD92F21A5880A005ADEE3 /* exportOptions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = exportOptions.plist; sourceTree = "<group>"; };
 		28B220C321A419C500F55446 /* TestCICD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestCICD.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		28B220C621A419C500F55446 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		28B220C821A419C500F55446 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				28B220CD21A419C800F55446 /* Assets.xcassets */,
 				28B220CF21A419C800F55446 /* LaunchScreen.storyboard */,
 				28B220D221A419C800F55446 /* Info.plist */,
+				287AD92F21A5880A005ADEE3 /* exportOptions.plist */,
 			);
 			path = TestCICD;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 				28B220D121A419C800F55446 /* LaunchScreen.storyboard in Resources */,
 				28B220CE21A419C800F55446 /* Assets.xcassets in Resources */,
 				28B220CC21A419C500F55446 /* Main.storyboard in Resources */,
+				287AD93021A5880A005ADEE3 /* exportOptions.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
