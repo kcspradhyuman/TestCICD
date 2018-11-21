@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>generateAppStoreInformation</key>
-	<false/>
 	<key>method</key>
 	<string>app-store</string>
 	<key>provisioningProfiles</key>
@@ -11,10 +9,6 @@
 		<key>com.kcspl.poc</key>
 		<string>CICDDemo-appstore</string>
 	</dict>
-	<key>signingCertificate</key>
-	<string>iPhone Distribution</string>
-	<key>signingStyle</key>
-	<string>manual</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
@@ -25,7 +19,5 @@
 	<true/>
 	<key>compileBitcode</key>
 	<true/>
-	<key>destination</key>
-	<string>upload</string>
 </dict>
 </plist>
