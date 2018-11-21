@@ -23,5 +23,9 @@
 	<true/>
 	<key>uploadSymbols</key>
 	<true/>
+	<key>compileBitcode</key>
+	<true/>
+	<key>destination</key>
+	<string>upload</string>
 </dict>
 </plist>
