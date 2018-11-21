@@ -10,7 +10,5 @@
 	<true/>
 	<key>uploadBitcode</key>
 	<true/>
-	<key>provisioningProfiles</key>
-	<string>CICDDemo-appstore</string>
 </dict>
 </plist>
