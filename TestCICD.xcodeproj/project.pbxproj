@@ -337,7 +337,7 @@
 			baseConfigurationReference = 9F1273AFF9E50A0D489A56D8 /* Pods-TestCICD.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = GWX9XCPYYK;
 				INFOPLIST_FILE = TestCICD/Info.plist;
@@ -359,7 +359,7 @@
 			baseConfigurationReference = 6378A3602B275E3C47298255 /* Pods-TestCICD.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = GWX9XCPYYK;
 				INFOPLIST_FILE = TestCICD/Info.plist;
