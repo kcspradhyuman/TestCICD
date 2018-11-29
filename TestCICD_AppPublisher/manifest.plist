@@ -11,25 +11,25 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://iosdemo.redirectme.net/TestCICD/TestCICD.ipa</string>
+					<string>https://iosdemo.redirectme.net/TestCICD_AppPublisher/TestCICD.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://iosdemo.redirectme.net/TestCICD/MPEDA.png</string>
+					<string>https://iosdemo.redirectme.net/TestCICD_AppPublisher/MPEDA.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://iosdemo.redirectme.net/TestCICD/MPEDA.png</string>
+					<string>https://iosdemo.redirectme.net/TestCICD_AppPublisher/MPEDA.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>in.co.kcspl.mpeda</string>
+				<string>com.kcspl.poc</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
